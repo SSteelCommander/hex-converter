@@ -1,1 +1,1 @@
-This is our Deciaml,Hex,Binary Converter project.
+This is our Decimal,Hex,Binary Converter project.
